@@ -1,7 +1,7 @@
 ---
 name: Errores
 about: Reportar un error
-title: "[BUG["
+title: "[BUG]"
 labels: bug
 assignees: cod3d-dev
 
