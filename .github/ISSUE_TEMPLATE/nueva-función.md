@@ -1,7 +1,7 @@
 ---
 name: Nueva función
 about: Sugiera una idea
-title: "[FEAT]"
+title: ''
 labels: feature
 assignees: cod3d-dev
 
